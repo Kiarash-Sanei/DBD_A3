@@ -1,0 +1,1 @@
+It's an assignment to implement ERRs of [Student Association](https://github.com/Kiarash-Sanei/DBD_A1) and [Football Federation](https://github.com/Kiarash-Sanei/DBD_A2) in Postgre.
